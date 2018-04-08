@@ -357,3 +357,5 @@ elif alexa_rank > 100000:
     arr.append(0)
 else:
     arr.append(-1)
+    
+print arr
