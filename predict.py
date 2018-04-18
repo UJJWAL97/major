@@ -48,7 +48,3 @@ def preidict(str):
     else:
         return 0
 
-
-link = 'http://www.scipy-lectures.org/intro/numpy/operations.html'
-print(featureextractor(link))
-print(preidict(link))
