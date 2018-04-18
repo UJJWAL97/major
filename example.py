@@ -1,3 +1,3 @@
 from predict import preidict
-link = 'https://www.voltedpc.com/online-store/Pre-Configured-By-JAGS-c24444472'
+link = 'http://www.scipy-lectures.org/intro/numpy/operations.html'
 print(preidict(link))
